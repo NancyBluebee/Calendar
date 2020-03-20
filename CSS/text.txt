@@ -1,0 +1,12 @@
+https://github.com/NancyBluebee/firstclass.git
+==========
+PS D:\bquiz01> git remote add b01 https://github.com/mackliu/10802-bquiz01
+PS D:\bquiz01> git pull b01 master
+remote: Enumerating objects: 197, done.
+remote: Total 197 (delta 0), reused 0 (delta 0), pack-reused 197
+Receiving objects: 100% (197/197), 8.72 MiB | 2.84 MiB/s, done.
+Resolving deltas: 100% (82/82), done.
+From https://github.com/mackliu/10802-bquiz01
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> b01/master
+PS D:\bquiz01>
